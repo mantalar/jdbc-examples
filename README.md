@@ -17,3 +17,5 @@ Project ini menggunakan maven untuk pengelola librarynya dan menggunakan library
 
 
 selamat mencoba
+
+#JDBC #Java #MySQL #NetBeans #Maven
