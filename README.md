@@ -1,4 +1,4 @@
-# jdbc-examples
+# JDBC, Java, MySQL, NetBeans
 JDBC Examples in Java and NetBeans
 
 untuk menjalankan project ini, anda perlu menginstall database testing dan table friend yang ada di file testing-db.sql
