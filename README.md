@@ -10,7 +10,7 @@ cara import database testing dan table friend kedalam mysql server anda, dapat a
 jika telah selesai project jdbc-examples dapat anda buka melalui netbeans
 perhatikan Main class yang dapat dieksekusi adalah JdbcExamples.java
 
-Project ini menggunakan maven untuk pengelola librarynya dan menggunakan library :
+Project ini menggunakan maven untuk pengelola librarynya dan menggunakan library (lihat pom.xml) :
   - mysql-connector-j versi 8.0.33 (https://mvnrepository.com/artifact/com.mysql/mysql-connector-j)
   - gson versi 2.10.1 (https://mvnrepository.com/artifact/com.google.code.gson/gson)
 
